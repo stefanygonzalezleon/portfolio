@@ -9,8 +9,8 @@ web development portfolio
 
 ## Features
 
-* Express.js
-* Handlebars.js
+* React App
+* React Router
 
 ## Author
 

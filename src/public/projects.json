@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Ghibli Songs Player",
+        "url": "img/studioGhibli.png",
+        "languages": "HTML, CSS, JAVASCRIPT"
+    },
+    {
+        "title": "PokeApi Switch",
+        "url": "img/pokeapi.png",
+        "languages": "HTML, CSS, JAVASCRIPT"
+    },
+    {
+        "title": "PokeDex FormTable",
+        "url": "img/pokedex.png",
+        "languages": "HTML, CSS, JAVASCRIPT"
+    },
+    {
+        "title": "Lottery Slot Machine",
+        "url": "img/slotMachine.png",
+        "languages": "HTML, CSS, JAVASCRIPT"
+    },
+    {
+        "title": "Click",
+        "url": "img/eventoclick.png",
+        "languages": "P5.JS"
+    },
+    {
+        "title": "Animation",
+        "url": "img/movimiento.png",
+        "languages": "P5.JS"
+    },
+    {
+        "title": "BrandPage",
+        "url": "img/brandPage.png",
+        "languages": "HTNL, CSS"
+    },
+    {
+        "title": "Portfolio",
+        "url": "img/Portafolio.png",
+        "languages": "HTML, CSS"
+    },
+    {
+        "title": "AboutMe Page",
+        "url": "img/aboutme.png",
+        "languages": "HTML, CSS"
+    },
+    {
+        "title": "Age Checker",
+        "url": "img/verficacionedad.png",
+        "languages": "HTML, CSS, JAVASCRIPT"
+    }
+]
