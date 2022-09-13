@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.59ccfe01.css",
+    "main.js": "/portfolio/static/js/main.41183dec.js",
+    "static/js/787.c5eb2a2f.chunk.js": "/portfolio/static/js/787.c5eb2a2f.chunk.js",
+    "static/media/RubikDirt-Regular.ttf": "/portfolio/static/media/RubikDirt-Regular.7c2e9501e6fa6713b659.ttf",
+    "index.html": "/portfolio/index.html",
+    "main.59ccfe01.css.map": "/portfolio/static/css/main.59ccfe01.css.map",
+    "main.41183dec.js.map": "/portfolio/static/js/main.41183dec.js.map",
+    "787.c5eb2a2f.chunk.js.map": "/portfolio/static/js/787.c5eb2a2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59ccfe01.css",
+    "static/js/main.41183dec.js"
+  ]
+}
